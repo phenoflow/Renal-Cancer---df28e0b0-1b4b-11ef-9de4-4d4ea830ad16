@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/renal-cancer-pelvi---primary.py
+inputModule3:
+  class: File
+  path: python/renal-cancer-malig---primary.py
+inputModule4:
+  class: File
+  path: python/renal-cancer-hypernephroma---primary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
